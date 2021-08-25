@@ -1,0 +1,11 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "short": "short",
+      "description": "description",
+      "barcode": "barcode",
+      "campusCode":  1
+    }
+  ]
+}
